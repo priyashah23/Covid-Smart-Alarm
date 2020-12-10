@@ -1,0 +1,19 @@
+{
+  "API-keys":{
+    "weather":"be7541d22964bf8cfec2ef73714d366e",
+    "news": "cd620fbb01d047108f28ad24675e4506"
+  },
+  "location": {
+    "news_location": "gb",
+    "city_location": "Exeter"
+  },
+  "cases_and_deaths": {
+    "date": "date",
+    "areaName": "areaName",
+    "areaCode": "areaCode",
+    "newCasesByPublishDate": "newCasesByPublishDate",
+    "cumCasesByPublishDate": "cumCasesByPublishDate",
+    "newDeathsByDeathDate": "newDeathsByDeathDate",
+    "cumDeathsByDeathDate": "cumDeathsByDeathDate"
+  }
+}
