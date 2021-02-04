@@ -1,11 +1,11 @@
 {
   "API-keys":{
-    "weather":"be7541d22964bf8cfec2ef73714d366e",
-    "news": "cd620fbb01d047108f28ad24675e4506"
+    "weather":"<Enter API-Keys here>",
+    "news": "<Enter API-key here>"
   },
   "location": {
     "news_location": "gb",
-    "city_location": "Exeter"
+    "city_location": "<Enter Location>"
   },
   "cases_and_deaths": {
     "date": "date",
